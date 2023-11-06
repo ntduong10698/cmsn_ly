@@ -8,7 +8,7 @@ var config = {
         "Tuổi mới thành công rực rỡ"
     ],
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        "Ly Bé": "./imgs/xiaokeai.png",
     },
     desc: {
         turn_on: "Bắt đầu nào",
